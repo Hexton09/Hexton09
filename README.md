@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Multiple projects **
  
- 🌱 I’m currently learning **Docker, ReactJS**
+ 🌱 I’m currently learning **Docker, MERN stack**
 
  💬 Ask me about **anything [here](https://github.com/Hexton09/Hexton09/issues)**
 
