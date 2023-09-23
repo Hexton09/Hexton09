@@ -32,7 +32,7 @@
   </a>
     </a>
   <a href="https://leetcode.com/rahulnagesh2002/" target="_blank">
-     <img src="https://img.shields.io/badge/Leetcode- 33ff33?style=for-the-badge&logo=todoist&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=todoist&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
