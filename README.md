@@ -16,7 +16,7 @@
 
  💬 Ask me about **anything [here](https://github.com/Hexton09/Hexton09/issues)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **The King of Hearts is the only king without a mustache.**
  
  </div>
  
