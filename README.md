@@ -30,6 +30,10 @@
   <a href="https://hexton09.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+    </a>
+  <a href="https://leetcode.com/rahulnagesh2002/" target="_blank">
+     <img src="https://img.shields.io/badge/Leetcode-FF5722?style=for-the-badge&logo=todoist&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
  <hr/>
