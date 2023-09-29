@@ -10,7 +10,7 @@
 
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250" height="250">
-<div align="center">
+<div>
  
  🔭 I’m currently working on **Multiple projects **
  
@@ -19,11 +19,8 @@
  💬 Ask me about **anything [here](https://github.com/Hexton09/Hexton09/issues)**
 
  ⚡ Fun fact **The King of Hearts is the only king without a mustache.**
- 
- </div>
- </div>
-<div align="center"> 
-  <a href="mailto:rahulnagesh2002@gmail.com">
+<div>
+   <a href="mailto:rahulnagesh2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/rahul-singh-nagesh-146a91227/" target="_blank">
@@ -37,9 +34,12 @@
      <img src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+ </div>
+ </div>
+<br/><br/>
 
  <hr/>
- 
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
