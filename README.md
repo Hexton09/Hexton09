@@ -1,8 +1,10 @@
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hexton09.Hexton09" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahul+Singh+Nagesh!;" />
 </h1>
+
 
 <h3 align="center">A 3rd year Computer Science Student from UPES,Dehradun,India</h3>
 
@@ -14,7 +16,7 @@
  
  🔭 I’m currently working on **Multiple projects **
  
- 🌱 I’m currently learning **Docker, MERN stack**
+ 🌱 I’m currently learning **Docker and MERN stack**
 
  💬 Ask me about **anything [here](https://github.com/Hexton09/Hexton09/issues)**
 
