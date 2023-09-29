@@ -6,9 +6,10 @@
 
 <h3 align="center">A 3rd year Computer Science Student from UPES,Dehradun,India</h3>
 
-<br/>
+<br/><br/>
+
 <div>
-<img align="left" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" height="200">
+<img align="left" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250" height="250">
 <div align="center">
  
  🔭 I’m currently working on **Multiple projects **
@@ -21,7 +22,7 @@
  
  </div>
  </div>
-<div align="left"> 
+<div align="center"> 
   <a href="mailto:rahulnagesh2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
