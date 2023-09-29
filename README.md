@@ -11,8 +11,10 @@
 <br/><br/>
 
 <div>
-<img align="left" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width=auto height=200>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width=auto height=250>
 <div>
+
+<h3>Current Status</h3>
  
  🔭 I’m currently working on **Multiple projects **
  
