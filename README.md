@@ -42,7 +42,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,python,javascript,c,java,cpp,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,html,css,vscode,git,openstack" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,html,css,vscode,git,openstack,mysql" />
 </div>
 
 <br/>
