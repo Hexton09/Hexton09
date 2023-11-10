@@ -76,7 +76,10 @@
 <br/><br/>
 <hr/>
 <h2 align="center"📛 Badges 📛</h2>
+<br>
+    
 [![An image of @hexton09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hexton09)](https://holopin.io/@hexton09)
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
