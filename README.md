@@ -75,7 +75,8 @@
 
 <br/><br/>
 <hr/>
-
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
     
 [![An image of @hexton09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hexton09)](https://holopin.io/@hexton09)
 
