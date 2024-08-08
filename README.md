@@ -78,6 +78,11 @@
 <br>
     
 [![An image of @hexton09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hexton09)](https://holopin.io/@hexton09)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/37f1b3de-a345-4259-a242-ce3e186289d8" alt="aws-certified-solutions-architect-associate" width="300" height="300"/>
+<img src="https://github.com/user-attachments/assets/3318681d-fba4-46d9-9355-1f78ac0dd9a8" alt="aws-certified-cloud-practitioner" width="300" height="300" />
+</div>
+
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
