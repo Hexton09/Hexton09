@@ -79,8 +79,12 @@
     
 [![An image of @hexton09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hexton09)](https://holopin.io/@hexton09)
 <div align="center">
-<img src="https://github.com/user-attachments/assets/37f1b3de-a345-4259-a242-ce3e186289d8" alt="aws-certified-solutions-architect-associate" width="300" height="300"/>
-<img src="https://github.com/user-attachments/assets/3318681d-fba4-46d9-9355-1f78ac0dd9a8" alt="aws-certified-cloud-practitioner" width="300" height="300" />
+  <a href="https://www.credly.com/badges/e756de8f-a648-4d28-b6ca-207eb0ac2d78/public_url">
+    <img src="https://github.com/user-attachments/assets/37f1b3de-a345-4259-a242-ce3e186289d8" alt="aws-certified-solutions-architect-associate" width="300" height="300"/>
+  </a>
+  <a href="https://www.credly.com/badges/3286aba5-5ed2-440f-8091-e5181873ae31/public_url">
+    <img src="https://github.com/user-attachments/assets/3318681d-fba4-46d9-9355-1f78ac0dd9a8" alt="aws-certified-cloud-practitioner" width="300" height="300"/>
+  </a>
 </div>
 
 
