@@ -17,7 +17,7 @@
  
  🔭 I’m currently working on **Multiple projects **
  
- 🌱 I’m currently learning **Docker and MERN stack**
+ 🌱 I’m currently learning **MERN stack**
 
  💬 Ask me about **anything [here](https://github.com/Hexton09/Hexton09/issues)**
 
