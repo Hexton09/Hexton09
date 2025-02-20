@@ -5,7 +5,7 @@
 </h1>
 
 
-<h3 align="center">A Final Computer Science Student from UPES,Dehradun,India</h3>
+<h3 align="center">A Developer from India</h3>
 
 <br/><br/>
 
