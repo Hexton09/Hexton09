@@ -47,7 +47,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,python,javascript,c,java,cpp,linux,docker,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,html,css,vscode,git,openstack,github,mysql" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,html,css,vscode,git,openstack,github,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=kubernetes,jenkins,terraform" />
 </div>
 
 <br/>
