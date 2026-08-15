@@ -26,16 +26,11 @@
    <a href="mailto:rahulnagesh2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/rahul-singh-nagesh-146a91227/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
   <a href="https://portfolio-hexton09.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
     </a>
-  <a href="https://leetcode.com/rahulnagesh2002/" target="_blank">
-     <img src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+
 </div>
  </div>
  </div>
